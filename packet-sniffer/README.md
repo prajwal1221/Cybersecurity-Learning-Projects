@@ -33,7 +33,6 @@ The project was created to learn networking fundamentals and packet analysis con
 ```text
 packet-sniffer/
 │
-├── main.py
+├── sniffer.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
